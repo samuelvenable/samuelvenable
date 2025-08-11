@@ -1,7 +1,5 @@
 👋 Hi, I’m @samuelvenable
 
-![Kitty FreeBSD](freebsd-logo-rev.png)
-
 - I permissively license all source code I release whenever I am authorized to do so, because that is what real freedom is like.
 - I am a semi-major contributor to [Boost Process v2](https://github.com/boostorg/process); I added many features regarding the retrieval of foreign process info.
 - I love to develop cross-platform desktop-targeted libraries and tools in mostly C++ for low-level operating system dev.
@@ -9,3 +7,5 @@
 - I maintain my own game engine, named [STIGMA](https://github.com/samuelvenable/stigma-dev), (the name of the software is an inside-joke).
 - I love the [FreeBSD](https://freebsd.org) project and the community surrounding it in their lovely [Discord](https://discord.com) server.
 - Very occasionally now I develop my own indie games, (this used to be my passion).
+
+![Kitty FreeBSD](freebsd-logo-rev.png)
