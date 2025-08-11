@@ -1,6 +1,6 @@
 👋 Hi, I’m @samuelvenable
 
-[Kitty FreeBSD](https://imgur.com/a/vkr8E5p)
+[Kitty FreeBSD](freebsd-logo-rev.png)
 
 - I permissively license all source code I release whenever I am authorized to do so, because that is what real freedom is like.
 - I am a semi-major contributor to [Boost Process v2](https://github.com/boostorg/process); I added many features regarding the retrieval of foreign process info.
