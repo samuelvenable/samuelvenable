@@ -1,7 +1,7 @@
 👋 Hi, I’m @samuelvenable
 
 - I permissively license all source code I release whenever authorized, because that is real software freedom.
-- I am a semi-major contributor to [Boost Process v2](https://github.com/boostorg/process); I wrote ways to access foreign, non-child, process information.
+- I am a semi-major contributor to [Boost Process v2](https://github.com/boostorg/process); I wrote ways to access foreign, non-child, process info.
 - I love to develop cross-platform desktop-targeted libraries and tools in mostly C++ for low-level OS-dev.
 - I enjoy developing cross-platform desktop-targeted extensions for [GameMaker](https://gamemaker.io) in mostly C++.
 - I maintain my own game engine, named [STIGMA](https://github.com/samuelvenable/stigma-dev), (the name of the software is an inside-joke).
